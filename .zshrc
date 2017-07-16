@@ -118,3 +118,5 @@ source $ZSH/oh-my-zsh.sh
 DEFAULT_USER="jgoldsmith"
 #prompt_context(){}
 alias sublime=subl
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
